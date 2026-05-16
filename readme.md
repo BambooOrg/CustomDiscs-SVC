@@ -1,3 +1,5 @@
+[![](https://img.shields.io/modrinth/dt/1yowwDpk)](https://modrinth.com/plugin/customdiscs-svc/versions "Modrinth")
+
 # Custom discs for SVC Addon
 
 ## Special thanks
